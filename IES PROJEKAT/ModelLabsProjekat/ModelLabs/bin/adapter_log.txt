@@ -1,0 +1,1 @@
+Error [2022-06-07 20:21:12] : Error during Assembly load. Profile: PowerTransformer ; Message: Could not load file or assembly 'file:///C:\Users\pc\Desktop\IES PROJEKAT\ModelLabsProjekat\ModelLabs\bin\PowerTransformerCIMProfile_Labs.DLL' or one of its dependencies. The system cannot find the file specified.

@@ -1,0 +1,75 @@
+12/15/2014 10:57:17 AM : Network Model Service Test Client is up and running...
+12/15/2014 10:57:17 AM : Result directory: ../Results
+12/15/2014 10:57:50 AM : Entering entity id failed. Please use hex (0x) or decimal format.
+12/15/2014 10:57:52 AM : GetRelatedValues failed. Input string was not in a correct format.
+12/15/2014 10:58:06 AM : Getting extent values method started.
+12/15/2014 10:58:07 AM : Getting extent values method successfully finished.
+1/3/2021 10:03:49 PM : Network Model Service Test Client is up and running...
+1/3/2021 10:03:49 PM : Result directory: ../Results
+1/3/2021 10:03:53 PM : Apply update method started.
+1/3/2021 10:03:54 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000004
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000016
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000016
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000002b
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000007
+
+1/3/2021 10:03:54 PM : Testing apply delta update method started.
+1/3/2021 10:03:54 PM : Testing apply delta update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+
+1/3/2021 10:03:54 PM : Testing apply delta delete method started.
+1/3/2021 10:03:54 PM : Testing apply delta delete method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+
+1/3/2021 10:03:54 PM : Getting extent values method started.
+1/3/2021 10:03:54 PM : Getting extent values method successfully finished.
+1/3/2021 10:04:04 PM : Getting extent values method started.
+1/3/2021 10:04:05 PM : Getting extent values method successfully finished.
+1/3/2021 10:04:05 PM : Getting related values method started.
+1/3/2021 10:04:05 PM : Getting related values method successfully finished.
+3.1.2021. 22:52:59 : Network Model Service Test Client is up and running...
+3.1.2021. 22:52:59 : Result directory: ../Results
+3.1.2021. 22:53:39 : Getting extent values method started.
+3.1.2021. 22:53:39 : Getting extent values method successfully finished.
+3.1.2021. 22:55:54 : Getting extent values method started.
+3.1.2021. 22:55:54 : Getting extent values method successfully finished.
+3.1.2021. 22:55:54 : Getting related values method started.
+3.1.2021. 22:55:54 : Getting related values method successfully finished.
+3.1.2021. 23:09:44 : Network Model Service Test Client is up and running...
+3.1.2021. 23:09:44 : Result directory: ../Results
+3.1.2021. 23:25:23 : Network Model Service Test Client is up and running...
+3.1.2021. 23:25:23 : Result directory: ../Results
+3.1.2021. 23:25:29 : Getting extent values method started.
+3.1.2021. 23:25:29 : Getting extent values method successfully finished.
+3.1.2021. 23:26:00 : Network Model Service Test Client stopped.
+3.1.2021. 23:26:11 : Network Model Service Test Client is up and running...
+3.1.2021. 23:26:11 : Result directory: ../Results
+3.1.2021. 23:26:15 : Getting extent values method started.
+3.1.2021. 23:26:15 : Getting extent values method successfully finished.
+3.1.2021. 23:26:51 : Getting extent values method started.
+3.1.2021. 23:26:51 : Getting extent values method successfully finished.
+3.1.2021. 23:27:05 : Getting extent values method started.
+3.1.2021. 23:27:05 : Getting extent values method successfully finished.
+3.1.2021. 23:28:15 : Getting extent values method started.
+3.1.2021. 23:28:15 : Getting extent values method successfully finished.
+3.1.2021. 23:28:21 : Getting extent values method started.
+3.1.2021. 23:28:21 : Getting extent values method successfully finished.
+3.1.2021. 23:29:01 : Getting extent values method started.
+3.1.2021. 23:29:01 : Getting extent values method successfully finished.
+3.1.2021. 23:29:01 : Getting related values method started.
+3.1.2021. 23:29:01 : Getting related values method successfully finished.
+3.1.2021. 23:29:32 : Network Model Service Test Client stopped.
+3.1.2021. 23:33:03 : Network Model Service Test Client is up and running...
+3.1.2021. 23:33:03 : Result directory: ../Results
+3.1.2021. 23:33:05 : Getting extent values method started.
+3.1.2021. 23:33:05 : Getting extent values method successfully finished.
+3.1.2021. 23:33:05 : Getting related values method started.
+3.1.2021. 23:33:05 : Getting related values method successfully finished.
