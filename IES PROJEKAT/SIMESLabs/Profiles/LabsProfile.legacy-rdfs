@@ -240,6 +240,7 @@ For CIMXML data files in RDF syntax, the mRID is mapped to rdf:ID or rdf:about a
     <rdfs:subClassOf rdf:resource="#IdentifiedObject"/>
     <cims:belongsToCategory rdf:resource="#Package_IES_Projects"/>
     <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#concrete"/>
+    <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#byreference"/>
     <rdfs:comment>A SwitchingOperation is used to define individual switch operations for an OutageSchedule. This OutageSchedule may be associated with another item of Substation such as a Transformer, Line, or Generator; or with the Switch itself as a PowerSystemResource. A Switch may be referenced by many OutageSchedules.</rdfs:comment>
     <rdfs:label>SwitchingOperation</rdfs:label>
     <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
@@ -426,6 +427,15 @@ For CIMXML data files in RDF syntax, the mRID is mapped to rdf:ID or rdf:about a
     <rdfs:comment>An extension to the Core and Wires packages that models information on the current and planned network configuration. These entities are optional within typical network applications.</rdfs:comment>
     <rdfs:label>Outage</rdfs:label>
     <rdf:type rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#ClassCategory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Switch.SwitchingOperations">
+    <cims:stereotype rdf:resource="http://langdale.com.au/2005/UML#byreference"/>
+    <rdfs:comment>A switch may be operated by many schedules.</rdfs:comment>
+    <rdfs:label>SwitchingOperations</rdfs:label>
+    <rdfs:range rdf:resource="#SwitchingOperation"/>
+    <rdfs:domain rdf:resource="#Switch"/>
+    <cims:multiplicity rdf:resource="http://iec.ch/TC57/1999/rdf-schema-extensions-19990926#M:0..1"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
   </rdf:Description>
   <rdf:Description rdf:about="#UnitSymbol.VArh">
     <rdfs:comment>Reactive energy in volt ampere reactive hours.</rdfs:comment>

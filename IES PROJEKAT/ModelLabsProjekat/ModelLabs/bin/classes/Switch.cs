@@ -15,5 +15,39 @@ namespace FTN {
     
     /// A generic device designed to close, or open, or both, one or more electric circuits.
     public class Switch : ConductingEquipment {
+        
+        /// A switch may be operated by many schedules.
+        private SwitchingOperation cim_SwitchingOperations;
+        
+        private const bool isSwitchingOperationsMandatory = false;
+        
+        private const string _SwitchingOperationsPrefix = "cim";
+        
+        public virtual SwitchingOperation SwitchingOperations {
+            get {
+                return this.cim_SwitchingOperations;
+            }
+            set {
+                this.cim_SwitchingOperations = value;
+            }
+        }
+        
+        public virtual bool SwitchingOperationsHasValue {
+            get {
+                return this.cim_SwitchingOperations != null;
+            }
+        }
+        
+        public static bool IsSwitchingOperationsMandatory {
+            get {
+                return isSwitchingOperationsMandatory;
+            }
+        }
+        
+        public static string SwitchingOperationsPrefix {
+            get {
+                return _SwitchingOperationsPrefix;
+            }
+        }
     }
 }

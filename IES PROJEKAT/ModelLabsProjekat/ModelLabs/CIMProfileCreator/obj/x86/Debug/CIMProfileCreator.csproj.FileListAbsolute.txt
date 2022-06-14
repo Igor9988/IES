@@ -34,3 +34,15 @@ C:\Users\pc\Desktop\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\o
 C:\Users\pc\Desktop\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
 C:\Users\pc\Desktop\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedClasses.xml
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedEnumerations.xml
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\bin\Predefined\PredefinedPackages.xml
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.CIMProfileCreatorForm.resources
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.Properties.Resources.resources
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\pc\Desktop\IESProj\IES\IES PROJEKAT\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
